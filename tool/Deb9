@@ -408,7 +408,7 @@ echo "   - Installation Log        : cat /root/log-install.txt"  | tee -a log-in
 echo ""  | tee -a log-install.txt
 echo "   - Webmin                  : http://$MYIP:10000/"  | tee -a log-install.txt
 echo ""
-echo "------------------------------ Modified by Wangzki -----------------------------"
+echo "------------------------------ Modified by RadzVPN -----------------------------"
 echo "-----Rebooting your VPS -----"
 sleep 5
 reboot
