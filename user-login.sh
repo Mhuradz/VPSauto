@@ -2,7 +2,7 @@
 #!/bin/bash
 #
 # Script Copyright www.fornesia.com
-# Mod by Wangzki
+# Mod by RadzVPN
 # ==========================
 # 
 
@@ -51,6 +51,6 @@ echo "------------------------------------------------" | lolcat
 
 echo "";
 
-echo "Mod by Wangzki";
+echo "Mod by RadzVPN";
 
 echo "";
